@@ -1,7 +1,7 @@
 Included in project:
 
-SQL Databse
-BackEnd Project NodeJS
+SQL Databse,
+BackEnd Project NodeJS,
 FrontEnd Angular (ZIP)
 
 Instructions :
